@@ -210,7 +210,7 @@ plt.show()
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-import numpy as np
+
 
 # Create synthetic data for monthly energy consumption (in kWh) for multiple households
 months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
